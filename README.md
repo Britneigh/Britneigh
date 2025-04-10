@@ -5,7 +5,7 @@
 I am a **Junior Software Developer** and currently a student **@Northcoders**.
 
 I have programmed in **HTML**, **CSS**, **Javascript** and **ABAP** (SAP) but have also dabbled in **C#** and **Typescript**.  
-I can speak **three** non-programme languages: English, Vietnamese and German.  
+I have knowledge on **three** non-programme languages: English, Vietnamese and German.  
 
 In my spare time I like to:
 - *workout*
