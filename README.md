@@ -2,7 +2,7 @@
 
 ### Welcome to my Github page!
 
-I am a **Junior Software Developer** and currently a student **@Northcoders**.
+I am a **Junior Software Developer** and currently a student **[@Northcoders](https://northcoders.com)**.
 
 I have programmed in **HTML**, **CSS**, **Javascript** and **ABAP** (SAP) but have also dabbled in **C#** and **Typescript**.  
 I have knowledge on **three** non-programme languages: English, Vietnamese and German.  
