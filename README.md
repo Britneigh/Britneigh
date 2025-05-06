@@ -4,7 +4,7 @@
 
 I am a **Junior Software Developer** and currently a student **[@Northcoders](https://northcoders.com)**.
 
-My Projects have been built mainly using **HTML**, **CSS**, **Javascript** and **PSQL** but have also dabbled in **C#**, **Typescript** and **ABAP** (SAP).  
+My projects have been built mainly using **HTML**, **CSS**, **JavaScript** and **PSQL**, but have also dabbled in **C#**, **TypeScript** and **ABAP** (SAP).
 I have knowledge of **three** non-programming languages: English, Vietnamese and German.  
 
 In my spare time, I like to:
