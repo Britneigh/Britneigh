@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub page!
 
-I am a **Junior Software Developer** and currently a student **[@Northcoders](https://northcoders.com)**.
+I am a **Junior Software Developer** and a graduate of **[@Northcoders](https://northcoders.com)**.
 
 My projects have been built mainly using **HTML**, **CSS**, **JavaScript**, **PSQL**, **TypeScript** but have also dabbled in **C#**, **MongoDB**(NoSQL) and **ABAP** (SAP).
 
